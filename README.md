@@ -1,0 +1,2 @@
+# aluraflix
+atividade pensamento computacional
